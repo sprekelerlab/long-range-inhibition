@@ -11,7 +11,7 @@ This repository containts the raw data and all code to go from raw data to figur
 These files can be found in 'data/per_mouse'. The folder contains subfolders 'AFC' and 'PC' with the conditioned and pseudo-conditioned mice, respectively. It also contains the same data, but split across boutons that based on their response during recall. For example
 'AFC_exc_csm' contains all boutons that increased their activoity during the CS-. 
 * Run the matlab scripts 'preprocess_data_AFC.m' or 'preprocess_data_PC.m' to re-compute the 'per_mouse' data from 'raw_data.mat'
-* 
+
 
 ## Scripts folder
 * Preprocessing scripts, see previous point.
