@@ -4,6 +4,7 @@ This repository containts the raw data and all code to go from raw data to figur
 
 
 ## Data folder
+* Start by unzipping the datafiles 
 * Raw data in 'data/raw_data.mat'
 * Meaning of variables in 'data/codebook.xlsx'
 * The analysis don't use the raw data, but load separate files for each mice. 
